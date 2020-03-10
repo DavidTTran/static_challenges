@@ -1,0 +1,85 @@
+<style>
+    
+    #mainHeader {
+      background-color: darkred;
+      color: white;
+      padding: 25px;
+      width: 950px;
+    }
+
+    #block_1 {
+      background-color: darkslategray;
+      color: darkslategray;
+      height: 60px;
+      width: 1000px;
+      position: absolute;
+      top: 108px
+    }
+
+    .headerLinks {
+      color: white;
+      font-weight: bold;
+      position: relative;
+      top: -70px;
+      left: 945px
+    }
+    
+    .blockLinks {
+      display: inline;
+      position: relative;
+      top: -20px;
+      left: 845px
+    }
+    
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+    
+    #image_1 {
+      width: 650px;
+      position: relative;
+      top: 30px;
+      left: 30px
+    }
+    
+    #header_2 {
+      position: relative;
+      font-size: 35px;
+      top: 10px;
+      left: 50px
+    }
+    
+    #paragraph_1 {
+      position: relative;
+      left: 50px;
+      width: 600px;
+    }
+    
+    .footer {
+      position: relative;
+      top: -725px;
+      background-color: darkslategray;
+      color: white;
+      width: 975px;
+      padding: 10px;
+    }
+    
+    #sideList {
+      position: relative;
+      top: -730px;
+      left: 725px
+    }
+    
+    .sideImage {
+      width: 250px;
+      padding-bottom: 25px;
+    }
+    
+    .sideHeader {
+      font-weight: bold;
+      font-size: 30px;
+    }
+    
+</style>
