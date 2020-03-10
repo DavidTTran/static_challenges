@@ -1,85 +1,93 @@
 <style>
-    
+
     #mainHeader {
       background-color: darkred;
       color: white;
-      padding: 25px;
-      width: 950px;
+      font-size: 35px;
+      padding: 15px;
+      width: 1500px;
     }
 
     #block_1 {
       background-color: darkslategray;
       color: darkslategray;
-      height: 60px;
-      width: 1000px;
-      position: absolute;
-      top: 108px
+      height: 35px;
+      width: 1500px;
+      position: relative;
+      top: 0px
     }
 
     .headerLinks {
       color: white;
       font-weight: bold;
       position: relative;
-      top: -70px;
-      left: 945px
+      top: -73px;
+      left: 1375px
     }
-    
+
     .blockLinks {
       display: inline;
       position: relative;
-      top: -20px;
-      left: 845px
+      padding-left: 30px;
+      top: -40px;
+      left: 1185px
     }
-    
+
     ul {
       list-style-type: none;
       margin: 0;
       padding: 0;
     }
-    
+
     #image_1 {
-      width: 650px;
+      width: 900px;
       position: relative;
-      top: 30px;
+      top: 0px;
       left: 30px
     }
-    
+
     #header_2 {
       position: relative;
-      font-size: 35px;
-      top: 10px;
+      font-size: 40px;
+      font-weight: bold;
+      top: 25px;
       left: 50px
     }
-    
+
     #paragraph_1 {
       position: relative;
-      left: 50px;
-      width: 600px;
+      top: 25px;
+      left: 33px;
+      width: 850px;
+      font-size: 22px;
+      padding: 20px
     }
-    
+
     .footer {
       position: relative;
-      top: -725px;
+      top: -975px;
       background-color: darkslategray;
       color: white;
-      width: 975px;
-      padding: 10px;
+      width: 1415px;
+      padding: 15px;
+      font-size: 17px;
     }
-    
+
     #sideList {
       position: relative;
-      top: -730px;
-      left: 725px
+      top: -947px;
+      left: 1050px
     }
-    
+
     .sideImage {
-      width: 250px;
-      padding-bottom: 25px;
+      width: 335px;
+      padding-bottom: 40px;
     }
-    
+
     .sideHeader {
       font-weight: bold;
       font-size: 30px;
+      padding-bottom: 10px;
     }
-    
+
 </style>
